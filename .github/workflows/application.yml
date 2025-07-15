@@ -1,1 +1,2 @@
-name
+service:
+  name: service A is bydefault properties file
